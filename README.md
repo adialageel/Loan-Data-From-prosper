@@ -146,7 +146,7 @@ For the second graph we can see that for not employed we've got the highest borr
 
 
 
-Key Insights for Presentation
+# Key Insights for Presentation
 •	For not employed or zero income has low opportunities to get loans
 •	Almost 38,000 loans are completed and the current by 50,000 are not completed yet.
 •	Computer programmer is the most profession for borrowing.
