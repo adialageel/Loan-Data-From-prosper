@@ -69,7 +69,7 @@ We can see that the most profession by Electrical engineers, computer programmer
  <img width="376" alt="image" src="https://user-images.githubusercontent.com/83476407/122645965-b3795300-d125-11eb-8faa-b7bc37120998.png">
 
 
-Bivariate Exploration
+# Bivariate Exploration
 
 1)	Quantitative vs. Quantitative
 We compared two variables that we are interested.
@@ -108,7 +108,7 @@ As we can notice from the chart below, the income with the range 25,000 - 49,999
 
  
 
-Multivariate Exploration
+# Multivariate Exploration
 1)	What we are focusing here in this sections is the corrolation between the rating for Prosper + Term and tbe borrower Annual Percentage Rate (ARP).
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/83476407/122645988-ca1faa00-d125-11eb-9895-26e4d4774a79.png">
