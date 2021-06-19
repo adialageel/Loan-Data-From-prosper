@@ -21,7 +21,8 @@ This dataset contains 113937 row (loans) and 81 columns that’s contain some pr
 
 1-Employment Status:
 
-You can see from the plot the unemployed and retired and part time employee have low potential to get loan.
+You can see from the plot, the unemployed and retired and part time employee have low potential to get loan.
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/83476407/122645908-84fb7800-d125-11eb-8cb0-6e52a5fe67fb.png">
 
  
 
