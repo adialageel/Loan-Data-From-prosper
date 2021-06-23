@@ -98,7 +98,8 @@ As we can notice from the chart below, the income with the range 25,000 - 49,999
 We can notice that from the plots below the loan amount and ratings has positive relationship. Since AA ratings take extra loans the relationsship between borrower's ARP with the amount of loan becomes positive.
  
 
-<img width="585" alt="Screen Shot 2021-06-23 at 9 27 11 AM" src="https://user-images.githubusercontent.com/83476407/123047072-84086600-d405-11eb-8d8e-62eac40b67be.png">
+<img width="456" alt="Screen Shot 2021-06-23 at 12 03 46 PM" src="https://user-images.githubusercontent.com/83476407/123069070-1f580600-d41b-11eb-9505-2c843532d7bb.png">
+
 
 
 
