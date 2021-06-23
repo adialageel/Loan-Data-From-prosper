@@ -95,9 +95,8 @@ As we can notice from the chart below, the income with the range 25,000 - 49,999
 # Multivariate Exploration
 1)	What we are focusing here in this sections is the corrolation between the rating for Prosper + Term and tbe borrower Annual Percentage Rate (ARP).
 
-<img width="468" alt="image" src="https://user-images.githubusercontent.com/83476407/122645988-ca1faa00-d125-11eb-9895-26e4d4774a79.png">
+<img width="585" alt="Screen Shot 2021-06-23 at 9 27 11 AM" src="https://user-images.githubusercontent.com/83476407/123046898-4f94aa00-d405-11eb-890e-88db5e92531f.png">
 
- 
 
 We can notice that the tirm has little effect on the loan amount with the ARP.
 
