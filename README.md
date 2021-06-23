@@ -93,33 +93,25 @@ As we can notice from the chart below, the income with the range 25,000 - 49,999
  
 
 # Multivariate Exploration
-1)	What we are focusing here in this sections is the corrolation between the rating for Prosper + Term and tbe borrower Annual Percentage Rate (ARP).
-
-<img width="585" alt="Screen Shot 2021-06-23 at 9 27 11 AM" src="https://user-images.githubusercontent.com/83476407/123046898-4f94aa00-d405-11eb-890e-88db5e92531f.png">
 
 
-We can notice that the tirm has little effect on the loan amount with the ARP.
-
-
-2)	We can notice that from the plots below the loan amount and ratings has positive relationship. Since AA ratings take extra loans the relationsship between borrower's ARP with the amount of loan becomes positive.
+We can notice that from the plots below the loan amount and ratings has positive relationship. Since AA ratings take extra loans the relationsship between borrower's ARP with the amount of loan becomes positive.
  
 
-
-<img width="468" alt="image" src="https://user-images.githubusercontent.com/83476407/122645991-ce4bc780-d125-11eb-9202-2eb77f58dda4.png">
-
+<img width="585" alt="Screen Shot 2021-06-23 at 9 27 11 AM" src="https://user-images.githubusercontent.com/83476407/123047072-84086600-d405-11eb-8d8e-62eac40b67be.png">
 
 
 
 
-
-3)	 what we can notice after checking the ratings of for E rating it gets the highest borrower ARP then there is the rating D .
+What we can notice after checking the ratings of for E rating it gets the highest borrower ARP then there is the rating D .
 
 For the second graph we can see that for not employed we've got the highest borrower APR.
 
 
 
-<img width="403" alt="image" src="https://user-images.githubusercontent.com/83476407/122645997-d441a880-d125-11eb-8c22-989d4a4412f4.png">
-<img width="394" alt="image" src="https://user-images.githubusercontent.com/83476407/122646000-d6a40280-d125-11eb-92b1-3dc365a9f526.png">
+<img width="658" alt="Screen Shot 2021-06-23 at 9 29 55 AM" src="https://user-images.githubusercontent.com/83476407/123047149-9da9ad80-d405-11eb-9b0e-e9372b4d25fc.png">
+<img width="650" alt="Screen Shot 2021-06-23 at 9 30 04 AM" src="https://user-images.githubusercontent.com/83476407/123047161-a0a49e00-d405-11eb-9063-4cbcc25b9de8.png">
+
 
 
  
