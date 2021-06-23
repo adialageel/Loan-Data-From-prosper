@@ -71,28 +71,11 @@ We can see that the most profession by Electrical engineers, computer programmer
 
 # Bivariate Exploration
 
-1)	Quantitative vs. Quantitative
-We compared two variables that we are interested.
-We can see from the plots that there is no relationship between the estimated return and the actual return.
-
- 
 
 
-<img width="393" alt="image" src="https://user-images.githubusercontent.com/83476407/122645968-b8d69d80-d125-11eb-8edf-b3af792310b0.png">
-
-
-
-
-
-
-
-
-
-
-2)	Quantitative vs. Qualitative
 In this section we will check the relationship between the expected returns with the income and credit rating.
 
-<img width="367" alt="image" src="https://user-images.githubusercontent.com/83476407/122646010-e15e9780-d125-11eb-8343-cd70a74b64d2.png">
+<img width="818" alt="Screen Shot 2021-06-23 at 9 24 39 AM" src="https://user-images.githubusercontent.com/83476407/123046515-de54f700-d404-11eb-8060-2f0110adb532.png">
 
  
 As we can notice from the graphs the relationship between the income and expected return is negative relationship.
@@ -100,11 +83,12 @@ As we can notice from the graphs the relationship between the income and expecte
 And from the boxplot below we can see the Highest return can be got when investing in borrowers.
 
 
-3)	Qualitative vs. Qualitiative
+
 
 As we can notice from the chart below, the income with the range 25,000 - 49,999 has the highest credit ratings and for large amount of income didn't get high credit rating.
 
-<img width="421" alt="image" src="https://user-images.githubusercontent.com/83476407/122645981-c3913280-d125-11eb-96cc-c89cbbbd9ae4.png">
+<img width="824" alt="Screen Shot 2021-06-23 at 9 25 10 AM" src="https://user-images.githubusercontent.com/83476407/123046614-fcbaf280-d404-11eb-8bef-ca26f743a2dc.png">
+
 
  
 
