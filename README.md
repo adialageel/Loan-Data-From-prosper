@@ -64,9 +64,9 @@ We can notice from the chart that the payment less than 2000 and rarely above 20
 
 
 7- Profession
-We can see that the most profession by Electrical engineers, computer programmer and others
+We can see that the most profession by Electrical engineers, computer programmer 
 
- <img width="376" alt="image" src="https://user-images.githubusercontent.com/83476407/122645965-b3795300-d125-11eb-8faa-b7bc37120998.png">
+<img width="747" alt="Screen Shot 2021-06-23 at 9 22 29 AM" src="https://user-images.githubusercontent.com/83476407/123046293-9b931f00-d404-11eb-932b-b20269c63377.png">
 
 
 # Bivariate Exploration
